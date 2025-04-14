@@ -46,3 +46,7 @@ git clone https://github.com/Lucero07/search-openAI.git
 cd search-openAI
 add OPENAI_API_KEY (.env.local.example)
 npm run dev
+
+```
+## Demo 
+[Demo](https://search-open-ai.vercel.app/)
