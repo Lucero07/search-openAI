@@ -27,13 +27,13 @@ Este proyecto es una aplicación web construida con **Next.js** y **Tailwind CSS
 
 ## 📂 Estructura del Proyecto
 
-/public/data/products.json        # Base de datos local de productos
-/pages/index.tsx                  # Página principal
-/pages/api/keywords.ts           # Endpoint para consultar OpenAI
-/hooks/useKeywords.ts            # Hook para manejar extracción de palabras
-/utils/openai.ts                 # Funciones para procesar respuestas de OpenAI
-/utils/filter.ts                 # Lógica para filtrar productos por keywords
-/components/ProductCard.tsx      # Componente visual de cada producto
+-  /public/data/products.json        # Base de datos local de productos
+-  /pages/index.tsx                  # Página principal
+-  /pages/api/keywords.ts           # Endpoint para consultar OpenAI
+-  /hooks/useKeywords.ts            # Hook para manejar extracción de palabras
+-  /utils/openai.ts                 # Funciones para procesar respuestas de OpenAI
+-  /utils/filter.ts                 # Lógica para filtrar productos por keywords
+-  /components/ProductCard.tsx      # Componente visual de cada producto
 
 ---
 
@@ -42,5 +42,7 @@ Este proyecto es una aplicación web construida con **Next.js** y **Tailwind CSS
 1. **Clona el repositorio:**
 
 ```bash
-git clone 
-cd buscador-ia
+git clone https://github.com/Lucero07/search-openAI.git
+cd search-openAI
+add OPENAI_API_KEY (.env.local.example)
+npm run dev
