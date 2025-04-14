@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 14 Pro",
+    "description": "Equipo con excelente rendimiento y buen precio",
+    "category": "celular"
+  },
+  {
+    "id": "2",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Equipo con procesador Intel i7 y SSD de 512GB",
+    "category": "portátil"
+  },
+  {
+    "id": "3",
+    "name": "Acer Swift 3",
+    "description": "Equipo balanceado entre potencia y portabilidad",
+    "category": "laptop"
+  },
+  {
+    "id": "4",
+    "name": "Dell XPS 15",
+    "description": "Computadora para diseño CAD y modelado 3D",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "5",
+    "name": "Samsung Galaxy S23",
+    "description": "Teléfono con diseño moderno y pantalla AMOLED",
+    "category": "celular"
+  },
+  {
+    "id": "6",
+    "name": "LG Gram 17",
+    "description": "Laptop con buen rendimiento y pantalla Full HD",
+    "category": "portátil"
+  },
+  {
+    "id": "7",
+    "name": "Acer Swift 3",
+    "description": "Equipo balanceado entre potencia y portabilidad",
+    "category": "laptop"
+  },
+  {
+    "id": "8",
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Torre con procesador Ryzen y 16GB de RAM",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "9",
+    "name": "Samsung Galaxy S23",
+    "description": "Celular con buena cámara y batería duradera",
+    "category": "celular"
+  },
+  {
+    "id": "10",
+    "name": "MSI Prestige 14",
+    "description": "Portátil ligera con gran duración de batería",
+    "category": "portátil"
+  },
+  {
+    "id": "11",
+    "name": "MSI Prestige 14",
+    "description": "Laptop de alto rendimiento con pantalla 4K",
+    "category": "laptop"
+  },
+  {
+    "id": "12",
+    "name": "MSI Prestige 14",
+    "description": "Equipo de cómputo todo en uno con pantalla táctil",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "13",
+    "name": "Realme GT Neo",
+    "description": "Teléfono con diseño moderno y pantalla AMOLED",
+    "category": "celular"
+  },
+  {
+    "id": "14",
+    "name": "Dell XPS 15",
+    "description": "Portátil ligera con gran duración de batería",
+    "category": "portátil"
+  },
+  {
+    "id": "15",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Laptop potente para edición de video y diseño gráfico",
+    "category": "laptop"
+  },
+  {
+    "id": "16",
+    "name": "MacBook Pro M2",
+    "description": "PC de escritorio compacta para oficina o estudio",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "17",
+    "name": "Xiaomi 13 Pro",
+    "description": "Celular con doble SIM y carga rápida",
+    "category": "celular"
+  },
+  {
+    "id": "18",
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Portátil ligera con gran duración de batería",
+    "category": "portátil"
+  },
+  {
+    "id": "19",
+    "name": "MacBook Pro M2",
+    "description": "Laptop de alto rendimiento con pantalla 4K",
+    "category": "laptop"
+  },
+  {
+    "id": "20",
+    "name": "MacBook Pro M2",
+    "description": "PC de escritorio compacta para oficina o estudio",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "21",
+    "name": "Sony Xperia 1 V",
+    "description": "Smartphone ideal para gaming y multimedia",
+    "category": "celular"
+  },
+  {
+    "id": "22",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Perfecta para estudiantes y tareas básicas",
+    "category": "portátil"
+  },
+  {
+    "id": "23",
+    "name": "HP Spectre x360",
+    "description": "Laptop de alto rendimiento con pantalla 4K",
+    "category": "laptop"
+  },
+  {
+    "id": "24",
+    "name": "Huawei MateBook X",
+    "description": "Ideal para tareas administrativas y navegación",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "25",
+    "name": "Asus ROG Phone 6",
+    "description": "Smartphone ideal para gaming y multimedia",
+    "category": "celular"
+  },
+  {
+    "id": "26",
+    "name": "MSI Prestige 14",
+    "description": "Laptop con buen rendimiento y pantalla Full HD",
+    "category": "portátil"
+  },
+  {
+    "id": "27",
+    "name": "LG Gram 17",
+    "description": "Laptop potente para edición de video y diseño gráfico",
+    "category": "laptop"
+  },
+  {
+    "id": "28",
+    "name": "Asus ZenBook 14",
+    "description": "Equipo de cómputo todo en uno con pantalla táctil",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "29",
+    "name": "OnePlus 11",
+    "description": "Equipo con excelente rendimiento y buen precio",
+    "category": "celular"
+  },
+  {
+    "id": "30",
+    "name": "LG Gram 17",
+    "description": "Perfecta para estudiantes y tareas básicas",
+    "category": "portátil"
+  },
+  {
+    "id": "31",
+    "name": "Asus ZenBook 14",
+    "description": "Equipo balanceado entre potencia y portabilidad",
+    "category": "laptop"
+  },
+  {
+    "id": "32",
+    "name": "Dell XPS 15",
+    "description": "Torre con procesador Ryzen y 16GB de RAM",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "33",
+    "name": "Motorola Edge 30",
+    "description": "Celular con buena cámara y batería duradera",
+    "category": "celular"
+  },
+  {
+    "id": "34",
+    "name": "Huawei MateBook X",
+    "description": "Ideal para trabajo remoto y navegación web",
+    "category": "portátil"
+  },
+  {
+    "id": "35",
+    "name": "Acer Swift 3",
+    "description": "Computadora portátil gamer con GPU dedicada",
+    "category": "laptop"
+  },
+  {
+    "id": "36",
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Torre con procesador Ryzen y 16GB de RAM",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "37",
+    "name": "Samsung Galaxy S23",
+    "description": "Celular con doble SIM y carga rápida",
+    "category": "celular"
+  },
+  {
+    "id": "38",
+    "name": "Dell XPS 15",
+    "description": "Laptop con buen rendimiento y pantalla Full HD",
+    "category": "portátil"
+  },
+  {
+    "id": "39",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Computadora portátil gamer con GPU dedicada",
+    "category": "laptop"
+  },
+  {
+    "id": "40",
+    "name": "MacBook Pro M2",
+    "description": "Ideal para tareas administrativas y navegación",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "41",
+    "name": "Sony Xperia 1 V",
+    "description": "Celular con buena cámara y batería duradera",
+    "category": "celular"
+  },
+  {
+    "id": "42",
+    "name": "LG Gram 17",
+    "description": "Laptop con buen rendimiento y pantalla Full HD",
+    "category": "portátil"
+  },
+  {
+    "id": "43",
+    "name": "Acer Swift 3",
+    "description": "Equipo balanceado entre potencia y portabilidad",
+    "category": "laptop"
+  },
+  {
+    "id": "44",
+    "name": "Huawei MateBook X",
+    "description": "PC de escritorio compacta para oficina o estudio",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "45",
+    "name": "Huawei P50",
+    "description": "Equipo con excelente rendimiento y buen precio",
+    "category": "celular"
+  },
+  {
+    "id": "46",
+    "name": "LG Gram 17",
+    "description": "Perfecta para estudiantes y tareas básicas",
+    "category": "portátil"
+  },
+  {
+    "id": "47",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Laptop de alto rendimiento con pantalla 4K",
+    "category": "laptop"
+  },
+  {
+    "id": "48",
+    "name": "Asus ZenBook 14",
+    "description": "Equipo de cómputo todo en uno con pantalla táctil",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "49",
+    "name": "Samsung Galaxy S23",
+    "description": "Smartphone ideal para gaming y multimedia",
+    "category": "celular"
+  },
+  {
+    "id": "50",
+    "name": "Huawei MateBook X",
+    "description": "Laptop con buen rendimiento y pantalla Full HD",
+    "category": "portátil"
+  },
+  {
+    "id": "51",
+    "name": "MacBook Pro M2",
+    "description": "Laptop potente para edición de video y diseño gráfico",
+    "category": "laptop"
+  },
+  {
+    "id": "52",
+    "name": "LG Gram 17",
+    "description": "Torre con procesador Ryzen y 16GB de RAM",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "53",
+    "name": "Google Pixel 7",
+    "description": "Celular con buena cámara y batería duradera",
+    "category": "celular"
+  },
+  {
+    "id": "54",
+    "name": "Huawei MateBook X",
+    "description": "Perfecta para estudiantes y tareas básicas",
+    "category": "portátil"
+  },
+  {
+    "id": "55",
+    "name": "MSI Prestige 14",
+    "description": "Laptop potente para edición de video y diseño gráfico",
+    "category": "laptop"
+  },
+  {
+    "id": "56",
+    "name": "MSI Prestige 14",
+    "description": "Equipo de cómputo todo en uno con pantalla táctil",
+    "category": "equipo de cómputo"
+  },
+  {
+    "id": "57",
+    "name": "Realme GT Neo",
+    "description": "Celular con doble SIM y carga rápida",
+    "category": "celular"
+  },
+  {
+    "id": "58",
+    "name": "MacBook Pro M2",
+    "description": "Portátil ligera con gran duración de batería",
+    "category": "portátil"
+  },
+  {
+    "id": "59",
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Equipo balanceado entre potencia y portabilidad",
+    "category": "laptop"
+  },
+  {
+    "id": "60",
+    "name": "LG Gram 17",
+    "description": "Equipo de cómputo todo en uno con pantalla táctil",
+    "category": "equipo de cómputo"
+  }
+]
